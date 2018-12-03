@@ -2,8 +2,8 @@
     <string name="app_name">Bun Alert</string>
     <string name="title_activity_maps">Map</string>
     <string name="topic">BunAlert</string>
-    <string name="fcm_key">AIzaSyARsZBjdTdpWAQp_77MTbxSQrdDwyOdzgU</string>
-    <string name="sender_key">277793136089</string>
+    <string name="fcm_key"></string>
+    <string name="sender_key"></string>
 
     <integer-array name="icons">
         <item>@drawable/bunny1</item>
