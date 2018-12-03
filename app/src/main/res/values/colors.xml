@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#01CAFF</color>
+    <color name="colorPrimaryDark">#293A50</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="flux_1857606_1">#E3E3E3</color>
+    <color name="flux_1857606_2">#45474C</color>
+    <color name="flux_1857606_3">#83878F</color>
+    <color name="flux_1857606_4">#4C82E2</color>
+    <color name="flux_1857606_5">#AEC4D7</color>
+    <color name="flux_1857606_6">#D8E1EA</color>
+</resources>

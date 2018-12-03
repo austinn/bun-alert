@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Bun Alert</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="topic">BunAlert</string>
+    <string name="fcm_key">AIzaSyARsZBjdTdpWAQp_77MTbxSQrdDwyOdzgU</string>
+    <string name="sender_key">277793136089</string>
+
+    <integer-array name="icons">
+        <item>@drawable/bunny1</item>
+        <item>@drawable/bunny2</item>
+        <item>@drawable/bunny3</item>
+        <item>@drawable/bunny4</item>
+    </integer-array>
+
+    <string-array name="names">
+        <item>Fluffer Nuttles</item>
+        <item>Bugs Bunny</item>
+        <item>Daisy</item>
+        <item>Marshmellow</item>
+        <item>Snowball</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
